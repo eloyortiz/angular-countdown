@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
+Es un contador de cuenta atrás con una barra de progreso incremental.
+Es un proyecto de prueba de componentes angular. Se han creado dos compoentes, uno para el contador (countdown) y otro para el manejo de la barra de progreso (progress-bar).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
