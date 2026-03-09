@@ -3,7 +3,8 @@ import { Component, Input, Output, OnInit, OnDestroy, OnChanges, EventEmitter } 
 @Component({
   selector: 'app-countdown',
   templateUrl: './countdown.component.html',
-  styleUrls: ['./countdown.component.scss']
+  styleUrls: ['./countdown.component.scss'],
+  standalone: false
 })
 export class CountdownComponent implements OnInit, OnDestroy, OnChanges {
 
